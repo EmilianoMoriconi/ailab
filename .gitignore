@@ -1,0 +1,26 @@
+# Ambiente virtuale
+.venv/
+
+# Bytecode Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# File log e temporanei
+*.log
+*.tmp
+*.bak
+
+# Modelli e checkpoint
+*.pt
+*.pth
+
+# VS Code
+.vscode/
+
+# File di sistema
+.DS_Store
+Thumbs.db
+
+# Ignora solo questo file JSON
+data/squad_train.json

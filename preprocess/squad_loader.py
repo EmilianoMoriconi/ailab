@@ -1,11 +1,10 @@
 import nltk
 import json
-from nltk.tokenize import word_tokenize
+from nltk.tokenize import TreebankWordTokenizer
 from collections import Counter
-from question_gen.utils.vocab import Vocab
+from utils.vocab import Vocab
 
 
-nltk.download('punkt')
 
 def load_squad_dataset(path):
     with open(path, 'r', encoding='utf-8') as f:
@@ -33,9 +32,10 @@ def load_squad_dataset(path):
 
 
 
+tokenizer = TreebankWordTokenizer()
 
 def tokenize(text):
-    return word_tokenize(text.lower())
+    return tokenizer.tokenize(text.lower())
 
 def preprocess_samples(samples, vocab=None, build_vocab=True):
     contexts_tok = [tokenize(s['context']) for s in samples]
