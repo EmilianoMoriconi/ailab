@@ -1,39 +1,38 @@
 from preprocess.squad_loader import load_squad_dataset, preprocess_samples
 from dataset.qg_dataset import QuestionGenerationDataset, collate_fn
+from model.encoder import EncoderGRU
+from model.decoder import DecoderGRU
+from question_gen.train_loop import train_model
 from torch.utils.data import DataLoader
-from question_gen.model.encoder import EncoderGRU
+import torch
 
+# 1. Carica e preprocessa i dati
+samples = load_squad_dataset("question_gen/data/squad_train.json")
+samples = samples[:1000]  
+encoded_samples, vocab = preprocess_samples(samples)
 
+# 2. Crea dataset e dataloader
+dataset = QuestionGenerationDataset(encoded_samples)
+dataloader = DataLoader(dataset, batch_size=32, shuffle=True, collate_fn=collate_fn)
 
-# 1. Carica i dati grezzi
-samples = load_squad_dataset("data/squad_train.json")
-samples = samples[:1000]  # subset per test
-# 2. Preprocessali
-encoded_samples, vocab = preprocess_samples(samples[:1000])  # subset per test
-
+# 3. Imposta i parametri
 vocab_size = len(vocab)
 emb_dim = 128
 hidden_dim = 256
 
+# 4. Inizializza modelli
 encoder = EncoderGRU(vocab_size, emb_dim, hidden_dim)
+decoder = DecoderGRU(
+    vocab_size=vocab_size,
+    emb_dim=emb_dim,
+    enc_hidden_dim=hidden_dim,
+    dec_hidden_dim=hidden_dim
+)
 
-# 3. Crea il Dataset
-dataset = QuestionGenerationDataset(encoded_samples)
+# 5. Allenamento
+device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+train_model(encoder, decoder, dataloader, vocab, device, num_epochs=5)
 
-# 4. Crea il DataLoader
-dataloader = DataLoader(dataset, batch_size=32, shuffle=True, collate_fn=collate_fn)
+torch.save(encoder.state_dict(), "saved/encoder.pt")
+torch.save(decoder.state_dict(), "saved/decoder.pt")
 
-# # 5. Test
-# for batch in dataloader:
-#     context, answer, question = batch
-#     print("Context shape:", context.shape)
-#     print("Answer shape:", answer.shape)
-#     print("Question shape:", question.shape)
-#     break
-
-for context, answer, question in dataloader:
-    outputs, hidden = encoder(context)
-    print("Context shape:", context.shape)
-    print("Encoder outputs shape:", outputs.shape)  # [batch, seq_len, hidden_dim * 2]
-    print("Encoder hidden shape:", hidden.shape)    # [2, batch, hidden_dim]
-    break
