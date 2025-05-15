@@ -2,13 +2,13 @@ from preprocess.squad_loader import load_squad_dataset, preprocess_samples
 from dataset.qg_dataset import QuestionGenerationDataset, collate_fn
 from model.encoder import EncoderGRU
 from model.decoder import DecoderGRU
-from question_gen.train_loop import train_model
+from train_loop import train_model
 from torch.utils.data import DataLoader
 import torch
 
 # 1. Carica e preprocessa i dati
 samples = load_squad_dataset("question_gen/data/squad_train.json")
-samples = samples[:1000]  
+samples = samples[:8000]  
 encoded_samples, vocab = preprocess_samples(samples)
 
 # 2. Crea dataset e dataloader
@@ -31,8 +31,8 @@ decoder = DecoderGRU(
 
 # 5. Allenamento
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-train_model(encoder, decoder, dataloader, vocab, device, num_epochs=5)
+train_model(encoder, decoder, dataloader, vocab, device, num_epochs=20)
 
-torch.save(encoder.state_dict(), "saved/encoder.pt")
-torch.save(decoder.state_dict(), "saved/decoder.pt")
+torch.save(encoder.state_dict(), "question_gen/saved/encoder.pt")
+torch.save(decoder.state_dict(), "question_gen/saved/decoder.pt")
 
