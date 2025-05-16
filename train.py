@@ -26,9 +26,9 @@ decoder = DecoderGRU(vocab_size, emb_dim, hidden_dim, hidden_dim)
 
 # ⬇️ Carica pesi se presenti
 import os
-if os.path.exists("saved/encoder_last.pt") and os.path.exists("saved/decoder_last.pt"):
-    encoder.load_state_dict(torch.load("saved/encoder_last.pt"))
-    decoder.load_state_dict(torch.load("saved/decoder_last.pt"))
+if os.path.exists("question_gen/saved/encoder_last.pt") and os.path.exists("question_gen/saved/decoder_last.pt"):
+    encoder.load_state_dict(torch.load("question_gen/saved/encoder_last.pt"))
+    decoder.load_state_dict(torch.load("question_gen/saved/decoder_last.pt"))
     print("✅ Modelli ripristinati")
 else:
     print("ℹ️ Nessun modello salvato, partenza da zero")

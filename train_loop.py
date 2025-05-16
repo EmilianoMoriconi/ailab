@@ -3,6 +3,7 @@ import torch.nn as nn
 import torch.optim as optim
 from tqdm import tqdm
 import json
+import time
 import os
 from datetime import datetime
 
@@ -35,6 +36,8 @@ def train_model(encoder, decoder, dataloader, vocab, device, num_epochs=5, teach
         "best": {}
     }
     
+    start_time = time.time()
+
     for epoch in range(num_epochs):
         encoder.train()
         decoder.train()
@@ -110,9 +113,18 @@ def train_model(encoder, decoder, dataloader, vocab, device, num_epochs=5, teach
             }
             print(f"✔️  Miglior modello salvato (loss = {best_loss:.4f})")
 
+    end_time = time.time()
+    elapsed = end_time - start_time
 
+    minutes = int(elapsed // 60)
+    seconds = int(elapsed % 60)
+
+    print(f"⏱️  Training completato in {minutes} min {seconds} sec.")
+
+    
+    
     # Aggiunge la run corrente a una lista cumulativa
-    log_file = "question_gen/saved/training_log.json"
+    log_file = "saved/training_log.json"
 
     # Se esiste già un file log, lo carica
     if os.path.exists(log_file):
