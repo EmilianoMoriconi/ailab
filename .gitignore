@@ -11,9 +11,7 @@ __pycache__/
 *.tmp
 *.bak
 
-# Modelli e checkpoint
-*.pt
-*.pth
+
 
 # VS Code
 .vscode/
