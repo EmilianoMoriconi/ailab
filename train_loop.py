@@ -4,6 +4,7 @@ import torch.optim as optim
 from tqdm import tqdm
 import json
 import os
+from datetime import datetime
 
 def train_model(encoder, decoder, dataloader, vocab, device, num_epochs=5, teacher_forcing_ratio=0.5):
     encoder.to(device)
@@ -16,7 +17,24 @@ def train_model(encoder, decoder, dataloader, vocab, device, num_epochs=5, teach
     history = []
 
     os.makedirs("saved", exist_ok=True)
-
+    
+    best_loss = float('inf')
+    
+    log_data = {
+        "config": {
+            "datetime": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+            "num_epochs": num_epochs,
+            "batch_size": dataloader.batch_size,
+            "learning_rate": 0.001,
+            "teacher_forcing_ratio": teacher_forcing_ratio,
+            "device": str(device),
+            "emb_dim": encoder.embedding.embedding_dim,
+            "hidden_dim": encoder.gru.hidden_size
+        },
+        "last": {},
+        "best": {}
+    }
+    
     for epoch in range(num_epochs):
         encoder.train()
         decoder.train()
@@ -69,16 +87,43 @@ def train_model(encoder, decoder, dataloader, vocab, device, num_epochs=5, teach
 
         print(f"Epoch {epoch+1} - Avg Loss: {avg_loss:.4f} - Token Accuracy: {accuracy:.4f}")
 
-        # Salvataggio modelli per epoca
-        torch.save(encoder.state_dict(), f"saved/encoder_epoch{epoch+1}.pt")
-        torch.save(decoder.state_dict(), f"saved/decoder_epoch{epoch+1}.pt")
-
-        # Tracking log
-        history.append({
+        # Salva sempre l'ultimo modello
+        torch.save(encoder.state_dict(), "saved/encoder_last.pt")
+        torch.save(decoder.state_dict(), "saved/decoder_last.pt")
+        
+        # Log "last"
+        log_data["last"] = {
             "epoch": epoch + 1,
             "loss": avg_loss,
             "token_accuracy": accuracy
-        })
+        }
 
-        with open("saved/training_log.json", "w") as f:
-            json.dump(history, f, indent=2)
+        # Salva il migliore (in base alla loss)
+        if avg_loss < best_loss:
+            best_loss = avg_loss
+            torch.save(encoder.state_dict(), "saved/encoder_best.pt")
+            torch.save(decoder.state_dict(), "saved/decoder_best.pt")
+            log_data["best"] = {
+                "epoch": epoch + 1,
+                "loss": avg_loss,
+                "token_accuracy": accuracy
+            }
+            print(f"✔️  Miglior modello salvato (loss = {best_loss:.4f})")
+
+
+    # Aggiunge la run corrente a una lista cumulativa
+    log_file = "saved/training_log.json"
+
+    # Se esiste già un file log, lo carica
+    if os.path.exists(log_file):
+        with open(log_file, "r") as f:
+            all_logs = json.load(f)
+    else:
+        all_logs = []
+
+    # Aggiunge la nuova run alla lista
+    all_logs.append(log_data)
+
+    # Scrive l'intera lista nel file
+    with open(log_file, "w") as f:
+        json.dump(all_logs, f, indent=2)

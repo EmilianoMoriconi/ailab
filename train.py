@@ -22,12 +22,17 @@ hidden_dim = 256
 
 # 4. Inizializza modelli
 encoder = EncoderGRU(vocab_size, emb_dim, hidden_dim)
-decoder = DecoderGRU(
-    vocab_size=vocab_size,
-    emb_dim=emb_dim,
-    enc_hidden_dim=hidden_dim,
-    dec_hidden_dim=hidden_dim
-)
+decoder = DecoderGRU(vocab_size, emb_dim, hidden_dim, hidden_dim)
+
+# ⬇️ Carica pesi se presenti
+import os
+if os.path.exists("saved/encoder_last.pt") and os.path.exists("saved/decoder_last.pt"):
+    encoder.load_state_dict(torch.load("saved/encoder_last.pt"))
+    decoder.load_state_dict(torch.load("saved/decoder_last.pt"))
+    print("✅ Modelli ripristinati")
+else:
+    print("ℹ️ Nessun modello salvato, partenza da zero")
+
 
 # 5. Allenamento
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
