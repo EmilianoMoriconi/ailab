@@ -88,8 +88,8 @@ def train_model(encoder, decoder, dataloader, vocab, device, num_epochs=5, teach
         print(f"Epoch {epoch+1} - Avg Loss: {avg_loss:.4f} - Token Accuracy: {accuracy:.4f}")
 
         # Salva sempre l'ultimo modello
-        torch.save(encoder.state_dict(), "saved/encoder_last.pt")
-        torch.save(decoder.state_dict(), "saved/decoder_last.pt")
+        torch.save(encoder.state_dict(), "question_gen/saved/encoder_last.pt")
+        torch.save(decoder.state_dict(), "question_gen/saved/decoder_last.pt")
         
         # Log "last"
         log_data["last"] = {
@@ -101,8 +101,8 @@ def train_model(encoder, decoder, dataloader, vocab, device, num_epochs=5, teach
         # Salva il migliore (in base alla loss)
         if avg_loss < best_loss:
             best_loss = avg_loss
-            torch.save(encoder.state_dict(), "saved/encoder_best.pt")
-            torch.save(decoder.state_dict(), "saved/decoder_best.pt")
+            torch.save(encoder.state_dict(), "question_gen/saved/encoder_best.pt")
+            torch.save(decoder.state_dict(), "question_gen/saved/decoder_best.pt")
             log_data["best"] = {
                 "epoch": epoch + 1,
                 "loss": avg_loss,
@@ -112,7 +112,7 @@ def train_model(encoder, decoder, dataloader, vocab, device, num_epochs=5, teach
 
 
     # Aggiunge la run corrente a una lista cumulativa
-    log_file = "saved/training_log.json"
+    log_file = "question_gen/saved/training_log.json"
 
     # Se esiste già un file log, lo carica
     if os.path.exists(log_file):
