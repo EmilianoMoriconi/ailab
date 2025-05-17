@@ -22,3 +22,10 @@ Thumbs.db
 
 # Ignora solo questo file JSON
 data/squad_train.json
+
+requirements.txt
+
+*.pt
+
+/saved/client_secrets.json
+/saved/mycreds.txt

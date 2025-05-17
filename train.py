@@ -7,7 +7,7 @@ from torch.utils.data import DataLoader
 import torch
 
 # 1. Carica e preprocessa i dati
-samples = load_squad_dataset("question_gen/data/squad_train.json")
+samples = load_squad_dataset("data/squad_train.json")
 samples = samples[:8000]  
 encoded_samples, vocab = preprocess_samples(samples)
 
@@ -26,9 +26,9 @@ decoder = DecoderGRU(vocab_size, emb_dim, hidden_dim, hidden_dim)
 
 # ⬇️ Carica pesi se presenti
 import os
-if os.path.exists("question_gen/saved/encoder_last.pt") and os.path.exists("question_gen/saved/decoder_last.pt"):
-    encoder.load_state_dict(torch.load("question_gen/saved/encoder_last.pt"))
-    decoder.load_state_dict(torch.load("question_gen/saved/decoder_last.pt"))
+if os.path.exists("saved/encoder_last.pt") and os.path.exists("saved/decoder_last.pt"):
+    encoder.load_state_dict(torch.load("saved/encoder_last.pt"))
+    decoder.load_state_dict(torch.load("saved/decoder_last.pt"))
     print("✅ Modelli ripristinati")
 else:
     print("ℹ️ Nessun modello salvato, partenza da zero")
@@ -38,6 +38,6 @@ else:
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 train_model(encoder, decoder, dataloader, vocab, device, num_epochs=20)
 
-torch.save(encoder.state_dict(), "question_gen/saved/encoder.pt")
-torch.save(decoder.state_dict(), "question_gen/saved/decoder.pt")
+torch.save(encoder.state_dict(), "saved/encoder.pt")
+torch.save(decoder.state_dict(), "saved/decoder.pt")
 
