@@ -42,5 +42,77 @@
       "loss": 0.8838849383945947,
       "token_accuracy": 0.6637282002311906
     }
+  },
+  {
+    "config": {
+      "datetime": "2025-05-18 17:07:57",
+      "num_epochs": 1,
+      "batch_size": 32,
+      "learning_rate": 0.001,
+      "teacher_forcing_ratio": 0.5,
+      "device": "cuda",
+      "emb_dim": 128,
+      "hidden_dim": 256
+    },
+    "last": {
+      "epoch": 1,
+      "loss": 0.9349565994427693,
+      "token_accuracy": 0.6586745250485924,
+      "bleu": 0.13617444637858728
+    },
+    "best": {
+      "epoch": 1,
+      "loss": 0.9349565994427693,
+      "token_accuracy": 0.6586745250485924,
+      "bleu": 0.13617444637858728
+    }
+  },
+  {
+    "config": {
+      "datetime": "2025-05-18 17:13:06",
+      "num_epochs": 1,
+      "batch_size": 32,
+      "learning_rate": 0.001,
+      "teacher_forcing_ratio": 0.5,
+      "device": "cuda",
+      "emb_dim": 128,
+      "hidden_dim": 256
+    },
+    "last": {
+      "epoch": 1,
+      "loss": 0.8742596458610613,
+      "token_accuracy": 0.6775973415261145,
+      "bleu": 0.29640273175079146
+    },
+    "best": {
+      "epoch": 1,
+      "loss": 0.8742596458610613,
+      "token_accuracy": 0.6775973415261145,
+      "bleu": 0.29640273175079146
+    }
+  },
+  {
+    "config": {
+      "datetime": "2025-05-18 17:20:09",
+      "num_epochs": 1,
+      "batch_size": 32,
+      "learning_rate": 0.001,
+      "teacher_forcing_ratio": 0.5,
+      "device": "cuda",
+      "emb_dim": 128,
+      "hidden_dim": 256
+    },
+    "last": {
+      "epoch": 1,
+      "loss": 0.9704571702594477,
+      "token_accuracy": 0.6598909022509248,
+      "bleu": 0.2852059068836651
+    },
+    "best": {
+      "epoch": 1,
+      "loss": 0.9704571702594477,
+      "token_accuracy": 0.6598909022509248,
+      "bleu": 0.2852059068836651
+    }
   }
 ]

@@ -1,3 +1,4 @@
+from sympy import im
 import torch
 import torch.nn as nn
 import torch.optim as optim
@@ -6,8 +7,12 @@ import json
 import time
 import os
 from datetime import datetime
+from nltk.translate.bleu_score import sentence_bleu
+import warnings
 
-def train_model(encoder, decoder, dataloader, vocab, device, num_epochs=5, teacher_forcing_ratio=0.5):
+warnings.filterwarnings("ignore", category=UserWarning)
+
+def train_model(encoder, decoder, dataloader, val_loader, vocab, device, num_epochs=5, teacher_forcing_ratio=0.5):
     encoder.to(device)
     decoder.to(device)
 
@@ -15,7 +20,7 @@ def train_model(encoder, decoder, dataloader, vocab, device, num_epochs=5, teach
     encoder_optimizer = optim.Adam(encoder.parameters(), lr=1e-3)
     decoder_optimizer = optim.Adam(decoder.parameters(), lr=1e-3)
 
-    history = []
+
 
     os.makedirs("saved", exist_ok=True)
     
@@ -90,6 +95,11 @@ def train_model(encoder, decoder, dataloader, vocab, device, num_epochs=5, teach
 
         print(f"Epoch {epoch+1} - Avg Loss: {avg_loss:.4f} - Token Accuracy: {accuracy:.4f}")
 
+        # 🔍 Validazione con BLEU
+        references, candidates = evaluate_on_validation(encoder, decoder, val_loader, vocab, device)
+        bleu = compute_bleu(references, candidates)
+        print(f"🔵 BLEU score: {bleu:.4f}")
+
         # Salva sempre l'ultimo modello
         torch.save(encoder.state_dict(), "saved/encoder_last.pt")
         torch.save(decoder.state_dict(), "saved/decoder_last.pt")
@@ -98,7 +108,8 @@ def train_model(encoder, decoder, dataloader, vocab, device, num_epochs=5, teach
         log_data["last"] = {
             "epoch": epoch + 1,
             "loss": avg_loss,
-            "token_accuracy": accuracy
+            "token_accuracy": accuracy,
+            "bleu": bleu
         }
 
         # Salva il migliore (in base alla loss)
@@ -109,7 +120,8 @@ def train_model(encoder, decoder, dataloader, vocab, device, num_epochs=5, teach
             log_data["best"] = {
                 "epoch": epoch + 1,
                 "loss": avg_loss,
-                "token_accuracy": accuracy
+                "token_accuracy": accuracy,
+                "bleu": bleu
             }
             print(f"✔️  Miglior modello salvato (loss = {best_loss:.4f})")
 
@@ -139,3 +151,53 @@ def train_model(encoder, decoder, dataloader, vocab, device, num_epochs=5, teach
     # Scrive l'intera lista nel file
     with open(log_file, "w") as f:
         json.dump(all_logs, f, indent=2)
+
+def tensor_to_text(tensor, vocab):
+    """Converte un tensore di token in una stringa (esclude padding e <sos>/<eos>)."""
+    itos = vocab.get_itos()
+    words = []
+    for token in tensor:
+        if token.item() == vocab.stoi["<eos>"]:
+            break
+        if token.item() != 0 and token.item() != vocab.stoi["<sos>"]:
+            words.append(itos[token.item()])
+    return " ".join(words)
+
+def evaluate_on_validation(encoder, decoder, val_loader, vocab, device, max_len=30):
+    encoder.eval()
+    decoder.eval()
+    references = []
+    candidates = []
+
+    with torch.no_grad():
+        for context, _, question in val_loader:
+            context = context.to(device)
+            encoder_outputs, encoder_hidden = encoder(context)
+            decoder_hidden = encoder_hidden[0:1] + encoder_hidden[1:2]
+            decoder_input = torch.tensor([vocab.stoi["<sos>"]] * context.size(0), device=device)
+
+            outputs = []
+            for _ in range(max_len):
+                output, decoder_hidden, _ = decoder(decoder_input, decoder_hidden, encoder_outputs)
+                top1 = output.argmax(1)
+                outputs.append(top1.unsqueeze(1))
+                decoder_input = top1
+
+            outputs = torch.cat(outputs, dim=1)
+            for i in range(outputs.size(0)):
+                ref = tensor_to_text(question[i], vocab)
+                hyp = tensor_to_text(outputs[i], vocab)
+                references.append(ref)
+                candidates.append(hyp)
+
+    return references, candidates
+
+def compute_bleu(references, candidates):
+    scores = []
+    for ref, cand in zip(references, candidates):
+        ref_tokens = ref.split()
+        cand_tokens = cand.split()
+        # score = sentence_bleu([ref_tokens], cand_tokens, weights=(0.5, 0.5))  # BLEU-2
+        score = sentence_bleu([ref_tokens], cand_tokens, weights=(1, 0))  # BLEU-1
+        scores.append(score)
+    return sum(scores) / len(scores) if scores else 0.0

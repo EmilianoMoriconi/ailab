@@ -50,7 +50,7 @@ def preprocess_samples(samples, vocab=None, build_vocab=True):
     for ctx, qst, ans in zip(contexts_tok, questions_tok, answers_tok):
         ctx_ids = vocab.encode(ctx)
         ans_ids = vocab.encode(ans)
-        qst_ids = [vocab.word2idx['<sos>']] + vocab.encode(qst) + [vocab.word2idx['<eos>']]
+        qst_ids = [vocab.stoi['<sos>']] + vocab.encode(qst) + [vocab.stoi['<eos>']]
         encoded_samples.append({
             'context_ids': ctx_ids,
             'answer_ids': ans_ids,

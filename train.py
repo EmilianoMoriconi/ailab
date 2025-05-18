@@ -5,15 +5,34 @@ from model.decoder import DecoderGRU
 from train_loop import train_model
 from torch.utils.data import DataLoader
 import torch
+from sklearn.model_selection import train_test_split
+import pickle
+
 
 # 1. Carica e preprocessa i dati
 samples = load_squad_dataset("data/squad_train.json")
-samples = samples[:8000]  
-encoded_samples, vocab = preprocess_samples(samples)
+samples = samples[:9000]
 
-# 2. Crea dataset e dataloader
-dataset = QuestionGenerationDataset(encoded_samples)
-dataloader = DataLoader(dataset, batch_size=32, shuffle=True, collate_fn=collate_fn)
+# 🔄 Carica vocabolario se esiste, altrimenti crealo e salvalo
+if os.path.exists("saved/vocab.pkl"):
+    with open("saved/vocab.pkl", "rb") as f:
+        vocab = pickle.load(f)
+    encoded_samples, _ = preprocess_samples(samples, vocab=vocab, build_vocab=False)
+    print("✅ Vocabolario caricato da file.")
+else:
+    encoded_samples, vocab = preprocess_samples(samples)
+    with open("saved/vocab.pkl", "wb") as f:
+        pickle.dump(vocab, f)
+    print("💾 Vocabolario salvato in 'saved/vocab.pkl'")
+
+
+train_samples, val_samples = train_test_split(encoded_samples, test_size=0.2, random_state=42)
+
+train_dataset = QuestionGenerationDataset(train_samples)
+val_dataset = QuestionGenerationDataset(val_samples)
+
+train_dataloader = DataLoader(train_dataset, batch_size=32, shuffle=True, collate_fn=collate_fn)
+val_dataloader = DataLoader(val_dataset, batch_size=32, shuffle=False, collate_fn=collate_fn)
 
 # 3. Imposta i parametri
 vocab_size = len(vocab)
@@ -36,7 +55,8 @@ else:
 
 # 5. Allenamento
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-train_model(encoder, decoder, dataloader, vocab, device, num_epochs=20)
+train_model(encoder, decoder, train_dataloader, val_dataloader, vocab, device, num_epochs=20)
+
 
 torch.save(encoder.state_dict(), "saved/encoder.pt")
 torch.save(decoder.state_dict(), "saved/decoder.pt")

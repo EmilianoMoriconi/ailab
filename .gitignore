@@ -27,6 +27,8 @@ data/squad_train.json
 requirements.txt
 
 *.pt
+*.plk
+
 
 /saved/client_secrets.json
 /saved/mycreds.json
