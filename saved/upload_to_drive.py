@@ -23,17 +23,21 @@ def upload_file(drive: GoogleDrive, filepath: Path, folder_id: str = FOLDER_ID) 
             'q': f"title='{filepath.name}' and '{folder_id}' in parents and trashed=false"
         }).GetList()
 
-        for old_file in file_list:
-            logging.info(f"🗑️ Cancello file esistente: {old_file['title']}")
-            old_file.Delete()
+        if file_list:
+            # Esiste già → aggiorna
+            old_file = file_list[0]
+            logging.info(f"🔁 File già presente, verrà aggiornato: {old_file['title']}")
+            gfile = drive.CreateFile({'id': old_file['id']})
+        else:
+            # Nuovo file
+            gfile = drive.CreateFile({'title': filepath.name, 'parents': [{'id': folder_id}]})
 
-        # Crea nuovo file
-        gfile = drive.CreateFile({'title': filepath.name, 'parents': [{'id': folder_id}]})
         gfile.SetContentFile(str(filepath))
         gfile.Upload()
 
-        # Permessi pubblici di sola lettura
-        gfile.InsertPermission({'type': 'anyone', 'value': 'anyone', 'role': 'reader'})
+        # Permessi pubblici per la condivisione
+        gfile.InsertPermission({'type': 'user', 'value': 'paluzzi.2053090@studenti.uniroma1.it', 'role': 'writer'})
+        gfile.InsertPermission({'type': 'user', 'value': 'moriconi.1944917@studenti.uniroma1.it', 'role': 'writer'})
 
         shareable_link = f"https://drive.google.com/file/d/{gfile['id']}/view?usp=sharing"
         logging.info(f"✅ Caricato: {filepath.name}")

@@ -29,4 +29,4 @@ requirements.txt
 *.pt
 
 /saved/client_secrets.json
-/saved/mycreds.txt
+/saved/mycreds.json
