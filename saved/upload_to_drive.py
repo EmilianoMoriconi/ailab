@@ -1,27 +1,10 @@
 from pydrive2.auth import GoogleAuth
 from pydrive2.drive import GoogleDrive
+from auth import authenticate
 
 FOLDER_ID = '1BBaKDyp6Fh_0dFI-Q40JSYXeCQ4utKCK'  # ID della cartella di Google Drive
 
-def authenticate():
-    gauth = GoogleAuth()
 
-    # Prova a caricare le credenziali salvate (se esistono)
-    gauth.LoadCredentialsFile("mycreds.txt")
-
-    if gauth.credentials is None:
-        # Primo accesso: serve login via browser
-        gauth.LocalWebserverAuth()
-    elif gauth.access_token_expired:
-        # Token scaduto: viene aggiornato
-        gauth.Refresh()
-    else:
-        # Token valido: usa quello salvato
-        gauth.Authorize()
-
-    # Salva o aggiorna le credenziali
-    gauth.SaveCredentialsFile("mycreds.txt")
-    return GoogleDrive(gauth)
 
 def upload_file(filename):
     drive = authenticate()

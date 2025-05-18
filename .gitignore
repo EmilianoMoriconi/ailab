@@ -1,5 +1,6 @@
 # Ambiente virtuale
 .venv/
+ailab-venv/
 
 # Bytecode Python
 __pycache__/
