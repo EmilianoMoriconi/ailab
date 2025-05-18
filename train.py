@@ -7,11 +7,14 @@ from torch.utils.data import DataLoader
 import torch
 from sklearn.model_selection import train_test_split
 import pickle
+import os
+import warnings
 
+warnings.filterwarnings("ignore", category=FutureWarning)
 
 # 1. Carica e preprocessa i dati
 samples = load_squad_dataset("data/squad_train.json")
-samples = samples[:9000]
+samples = samples[:10000]
 
 # 🔄 Carica vocabolario se esiste, altrimenti crealo e salvalo
 if os.path.exists("saved/vocab.pkl"):
@@ -31,8 +34,8 @@ train_samples, val_samples = train_test_split(encoded_samples, test_size=0.2, ra
 train_dataset = QuestionGenerationDataset(train_samples)
 val_dataset = QuestionGenerationDataset(val_samples)
 
-train_dataloader = DataLoader(train_dataset, batch_size=32, shuffle=True, collate_fn=collate_fn)
-val_dataloader = DataLoader(val_dataset, batch_size=32, shuffle=False, collate_fn=collate_fn)
+train_dataloader = DataLoader(train_dataset, batch_size=64, shuffle=True, collate_fn=collate_fn)
+val_dataloader = DataLoader(val_dataset, batch_size=64, shuffle=False, collate_fn=collate_fn)
 
 # 3. Imposta i parametri
 vocab_size = len(vocab)
@@ -44,7 +47,6 @@ encoder = EncoderGRU(vocab_size, emb_dim, hidden_dim)
 decoder = DecoderGRU(vocab_size, emb_dim, hidden_dim, hidden_dim)
 
 # ⬇️ Carica pesi se presenti
-import os
 if os.path.exists("saved/encoder_last.pt") and os.path.exists("saved/decoder_last.pt"):
     encoder.load_state_dict(torch.load("saved/encoder_last.pt"))
     decoder.load_state_dict(torch.load("saved/decoder_last.pt"))

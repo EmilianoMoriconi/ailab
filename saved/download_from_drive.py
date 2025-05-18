@@ -49,6 +49,7 @@ if __name__ == "__main__":
         "encoder_last.pt",
         "decoder.pt",
         "decoder_best.pt",
-        "decoder_last.pt"
+        "decoder_last.pt",
+        "vocab.pkl"
     ]
     download_files(files_to_download, output_dir=".")
