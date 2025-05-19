@@ -258,5 +258,53 @@
       "token_accuracy": 0.7250269484468794,
       "bleu": 0.27677937725633417
     }
+  },
+  {
+    "config": {
+      "datetime": "2025-05-19 13:12:39",
+      "num_epochs": 20,
+      "batch_size": 64,
+      "learning_rate": 0.001,
+      "teacher_forcing_ratio": 0.5,
+      "device": "cuda",
+      "emb_dim": 128,
+      "hidden_dim": 256
+    },
+    "last": {
+      "epoch": 20,
+      "loss": 0.6605460892031094,
+      "token_accuracy": 0.7272916069185811,
+      "bleu": 0.27181639479623465
+    },
+    "best": {
+      "epoch": 6,
+      "loss": 0.6140856508824191,
+      "token_accuracy": 0.7304660845142852,
+      "bleu": 0.2718734527781952
+    }
+  },
+  {
+    "config": {
+      "datetime": "2025-05-19 14:11:32",
+      "num_epochs": 20,
+      "batch_size": 64,
+      "learning_rate": 0.001,
+      "teacher_forcing_ratio": 0.5,
+      "device": "cuda",
+      "emb_dim": 128,
+      "hidden_dim": 256
+    },
+    "last": {
+      "epoch": 20,
+      "loss": 0.5812657055057288,
+      "token_accuracy": 0.7425112985690128,
+      "bleu": 0.27111537308576483
+    },
+    "best": {
+      "epoch": 16,
+      "loss": 0.5708168413522171,
+      "token_accuracy": 0.7501953144315114,
+      "bleu": 0.27265158283440294
+    }
   }
 ]
