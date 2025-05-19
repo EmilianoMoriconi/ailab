@@ -13,29 +13,30 @@ import warnings
 warnings.filterwarnings("ignore", category=FutureWarning)
 
 # 1. Carica e preprocessa i dati
-samples = load_squad_dataset("data/squad_train.json")
-samples = samples[:10000]
+train_samples = load_squad_dataset("data/SQuAD_it-train.json")
+#train_samples = train_samples[:10000]
+test_samples = load_squad_dataset("data/SQuAD_It-test.json")
+#test_samples = test_samples[:10000]
 
 # 🔄 Carica vocabolario se esiste, altrimenti crealo e salvalo
 if os.path.exists("saved/vocab.pkl"):
     with open("saved/vocab.pkl", "rb") as f:
         vocab = pickle.load(f)
-    encoded_samples, _ = preprocess_samples(samples, vocab=vocab, build_vocab=False)
+    encoded_samples, _ = preprocess_samples(train_samples, vocab=vocab, build_vocab=False)
     print("✅ Vocabolario caricato da file.")
 else:
-    encoded_samples, vocab = preprocess_samples(samples)
+    encoded_samples, vocab = preprocess_samples(train_samples)
     with open("saved/vocab.pkl", "wb") as f:
         pickle.dump(vocab, f)
     print("💾 Vocabolario salvato in 'saved/vocab.pkl'")
 
 
-train_samples, val_samples = train_test_split(encoded_samples, test_size=0.2, random_state=42)
 
 train_dataset = QuestionGenerationDataset(train_samples)
-val_dataset = QuestionGenerationDataset(val_samples)
+val_dataset = QuestionGenerationDataset(test_samples)
 
-train_dataloader = DataLoader(train_dataset, batch_size=64, shuffle=True, collate_fn=collate_fn)
-val_dataloader = DataLoader(val_dataset, batch_size=64, shuffle=False, collate_fn=collate_fn)
+train_dataloader = DataLoader(train_dataset, batch_size=32, shuffle=True, collate_fn=collate_fn)
+val_dataloader = DataLoader(val_dataset, batch_size=32, shuffle=False, collate_fn=collate_fn)
 
 # 3. Imposta i parametri
 vocab_size = len(vocab)
@@ -57,7 +58,7 @@ else:
 
 # 5. Allenamento
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-train_model(encoder, decoder, train_dataloader, val_dataloader, vocab, device, num_epochs=20)
+train_model(encoder, decoder, train_dataloader, val_dataloader, vocab, device, num_epochs=1)
 
 
 torch.save(encoder.state_dict(), "saved/encoder.pt")

@@ -241,7 +241,7 @@ def evaluate_on_validation(encoder, decoder, val_loader, vocab, device, max_len=
 
 def compute_bleu(references, candidates):
     scores = []
-    for ref, cand in zip(references, candidates):
+    for (ref, _), cand in zip(references, candidates):
         ref_tokens = ref.split()
         cand_tokens = cand.split()
         # score = sentence_bleu([ref_tokens], cand_tokens, weights=(0.5, 0.5))  # BLEU-2
