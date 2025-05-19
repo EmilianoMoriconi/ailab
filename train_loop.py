@@ -1,4 +1,3 @@
-from sympy import im
 import torch
 import torch.nn as nn
 import torch.optim as optim
@@ -100,6 +99,51 @@ def train_model(encoder, decoder, dataloader, val_loader, vocab, device, num_epo
         bleu = compute_bleu(references, candidates)
         print(f"🔵 BLEU score: {bleu:.4f}")
 
+        if device.type == "cuda":
+            allocated = torch.cuda.memory_allocated(device)
+            max_allocated = torch.cuda.max_memory_allocated(device)
+
+            allocated_mb = allocated / 1024 ** 2
+            max_allocated_mb = max_allocated / 1024 ** 2
+
+            allocated_gb = allocated / 1024 ** 3
+            max_allocated_gb = max_allocated / 1024 ** 3
+
+            print(f"📈 VRAM attualmente allocata: {allocated_mb:.2f} MB ({allocated_gb:.2f} GB)")
+            print(f"📉 Picco massimo VRAM usata in epoca: {max_allocated_mb:.2f} MB ({max_allocated_gb:.2f} GB)")
+
+            # resetta il contatore per l’epoca successiva
+            torch.cuda.reset_max_memory_allocated(device)
+
+
+        examples_to_save = []
+        for i in range(min(3, len(references))):
+            ref, ctx = references[i]
+            examples_to_save.append({
+                "context": ctx,
+                "reference": ref,
+                "generated": candidates[i]
+            })
+
+        epoch_examples = {
+            "epoch": epoch + 1,
+            "examples": examples_to_save
+        }
+
+        examples_log_file = "saved/examples_log.json"
+
+        # Se il file esiste, carica e aggiorna
+        if os.path.exists(examples_log_file):
+            with open(examples_log_file, "r") as f:
+                all_examples = json.load(f)
+        else:
+            all_examples = []
+
+        all_examples.append(epoch_examples)
+
+        with open(examples_log_file, "w") as f:
+            json.dump(all_examples, f, indent=2)
+
         # Salva sempre l'ultimo modello
         torch.save(encoder.state_dict(), "saved/encoder_last.pt")
         torch.save(decoder.state_dict(), "saved/decoder_last.pt")
@@ -187,8 +231,11 @@ def evaluate_on_validation(encoder, decoder, val_loader, vocab, device, max_len=
             for i in range(outputs.size(0)):
                 ref = tensor_to_text(question[i], vocab)
                 hyp = tensor_to_text(outputs[i], vocab)
-                references.append(ref)
+                ctx = tensor_to_text(context[i], vocab)
+
+                references.append((ref, ctx))      # salva reference con relativo context
                 candidates.append(hyp)
+
 
     return references, candidates
 
