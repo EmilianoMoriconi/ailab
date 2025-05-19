@@ -30,10 +30,10 @@ else:
         pickle.dump(vocab, f)
     print("💾 Vocabolario salvato in 'saved/vocab.pkl'")
 
+preprocess_test_samples, _ = preprocess_samples(test_samples, vocab=vocab, build_vocab=False)
 
-
-train_dataset = QuestionGenerationDataset(train_samples)
-val_dataset = QuestionGenerationDataset(test_samples)
+train_dataset = QuestionGenerationDataset(encoded_samples)
+val_dataset = QuestionGenerationDataset(preprocess_test_samples)
 
 train_dataloader = DataLoader(train_dataset, batch_size=32, shuffle=True, collate_fn=collate_fn)
 val_dataloader = DataLoader(val_dataset, batch_size=32, shuffle=False, collate_fn=collate_fn)
