@@ -27,8 +27,9 @@ data/
 requirements.txt
 
 *.pt
-*.plk
+*.pkl
 
 
 /saved/client_secrets.json
 /saved/mycreds.json
+

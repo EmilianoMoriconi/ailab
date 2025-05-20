@@ -2,7 +2,7 @@ from collections import Counter
 
 
 class Vocab:
-    def __init__(self, min_freq=2):
+    def __init__(self, min_freq=1):
         self.min_freq = min_freq
         self.stoi = {'<pad>': 0, '<sos>': 1, '<eos>': 2, '<unk>': 3}
         self.itos = ['<pad>', '<sos>', '<eos>', '<unk>']
