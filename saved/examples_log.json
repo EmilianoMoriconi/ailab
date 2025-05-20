@@ -1,0 +1,22 @@
+[
+  {
+    "epoch": 1,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi <unk> di petrolio arabo ( <unk> , composta dai membri arabi dell ' <unk> pi\u00f9 egitto e siria ) <unk> un embargo <unk> alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 <unk> l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale anno ha il nome del di di ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi <unk> di petrolio arabo ( <unk> , composta dai membri arabi dell ' <unk> pi\u00f9 egitto e siria ) <unk> un embargo <unk> alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 <unk> l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale anno ha il nome del di di ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi <unk> di petrolio arabo ( <unk> , composta dai membri arabi dell ' <unk> pi\u00f9 egitto e siria ) <unk> un embargo <unk> alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 <unk> l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale anno ha il nome del di di ?"
+      }
+    ]
+  }
+]

@@ -10,14 +10,17 @@ import pickle
 import os
 import warnings
 
+BATCH_SIZE = 16
+
+
 warnings.filterwarnings("ignore", category=FutureWarning)
 torch.cuda.empty_cache()
 
 # 1. Carica e preprocessa i dati
 train_samples = load_squad_dataset("data/SQuAD_it-train.json")
-train_samples = train_samples[:10000]
+train_samples = train_samples[:8000]
 test_samples = load_squad_dataset("data/SQuAD_it-test.json")
-test_samples = test_samples[:10000]
+test_samples = test_samples[:2000]
 
 # 🔄 Carica vocabolario se esiste, altrimenti crealo e salvalo
 if os.path.exists("saved/vocab.pkl"):
@@ -36,8 +39,8 @@ preprocess_test_samples, _ = preprocess_samples(test_samples, vocab=vocab, build
 train_dataset = QuestionGenerationDataset(encoded_samples)
 val_dataset = QuestionGenerationDataset(preprocess_test_samples)
 
-train_dataloader = DataLoader(train_dataset, batch_size=32, shuffle=True, collate_fn=collate_fn)
-val_dataloader = DataLoader(val_dataset, batch_size=32, shuffle=False, collate_fn=collate_fn)
+train_dataloader = DataLoader(train_dataset, batch_size=BATCH_SIZE, shuffle=True, collate_fn=collate_fn)
+val_dataloader = DataLoader(val_dataset, batch_size=BATCH_SIZE, shuffle=False, collate_fn=collate_fn)
 
 # 3. Imposta i parametri
 vocab_size = len(vocab)
