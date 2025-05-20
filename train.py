@@ -10,7 +10,7 @@ import pickle
 import os
 import warnings
 
-BATCH_SIZE = 16
+BATCH_SIZE = 32
 
 
 warnings.filterwarnings("ignore", category=FutureWarning)
@@ -62,7 +62,7 @@ else:
 
 # 5. Allenamento
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-train_model(encoder, decoder, train_dataloader, val_dataloader, vocab, device, num_epochs=1)
+train_model(encoder, decoder, train_dataloader, val_dataloader, vocab, device, num_epochs=20)
 
 
 torch.save(encoder.state_dict(), "saved/encoder.pt")

@@ -18,5 +18,1025 @@
         "generated": "quale anno ha il nome del di di ?"
       }
     ]
+  },
+  {
+    "epoch": 1,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "chi ha ha il il ' ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "chi ha ha il il ' ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "chi ha ha il il ' ?"
+      }
+    ]
+  },
+  {
+    "epoch": 1,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale \u00e8 stato il ' arsenal per la prima volta ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale \u00e8 stato il ' arsenal per la prima volta ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale \u00e8 stato il ' arsenal per la prima volta ?"
+      }
+    ]
+  },
+  {
+    "epoch": 2,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale ha ha il il ' arsenal ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale ha ha il il ' arsenal ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale ha ha il il ' arsenal ?"
+      }
+    ]
+  },
+  {
+    "epoch": 3,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "chi ha stato il il ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "chi ha stato il il ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "chi ha stato il il ?"
+      }
+    ]
+  },
+  {
+    "epoch": 4,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale \u00e8 stato il il ' ' ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale \u00e8 stato il il ' ' ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale \u00e8 stato il il ' ' ?"
+      }
+    ]
+  },
+  {
+    "epoch": 5,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale ha ha il ' ' di ' ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale ha ha il ' ' di ' ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale ha ha il ' ' di ' ?"
+      }
+    ]
+  },
+  {
+    "epoch": 6,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese ha ha ' \u00e8 stata la prima volta ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese ha ha ' \u00e8 stata la prima volta ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese ha ha ' \u00e8 stata la prima volta ?"
+      }
+    ]
+  },
+  {
+    "epoch": 7,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale anno ha ' \u00e8 stato il ' indagine ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale anno ha ' \u00e8 stato il ' indagine ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale anno ha ' \u00e8 stato il ' indagine ?"
+      }
+    ]
+  },
+  {
+    "epoch": 8,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale anno \u00e8 stato il il ' ' ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale anno \u00e8 stato il il ' ' ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale anno \u00e8 stato il il ' ' ?"
+      }
+    ]
+  },
+  {
+    "epoch": 9,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale era il ' dell ' del ' del ' ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale era il ' dell ' del ' del ' ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale era il ' dell ' del ' del ' ?"
+      }
+    ]
+  },
+  {
+    "epoch": 10,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale ha riferito il il del ' ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale ha riferito il il del ' ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale ha riferito il il del ' ?"
+      }
+    ]
+  },
+  {
+    "epoch": 11,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale \u00e8 stato il primo del ' industria del xviii secolo ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale \u00e8 stato il primo del ' industria del xviii secolo ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale \u00e8 stato il primo del ' industria del xviii secolo ?"
+      }
+    ]
+  },
+  {
+    "epoch": 12,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale \u00e8 stato il primo del ' dell ' illuminismo ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale \u00e8 stato il primo del ' dell ' illuminismo ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale \u00e8 stato il primo del ' dell ' illuminismo ?"
+      }
+    ]
+  },
+  {
+    "epoch": 13,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale anno ha riferito la ' ' ' ' ' ' ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale anno ha riferito la ' ' ' ' ' ' ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale anno ha riferito la ' ' ' ' ' ' ?"
+      }
+    ]
+  },
+  {
+    "epoch": 14,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale \u00e8 stato il ' dell ' ' illuminismo ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale \u00e8 stato il ' dell ' ' illuminismo ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale \u00e8 stato il ' dell ' ' illuminismo ?"
+      }
+    ]
+  },
+  {
+    "epoch": 15,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese \u00e8 stata la ' dell ' ' ' ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese \u00e8 stata la ' dell ' ' ' ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese \u00e8 stata la ' dell ' ' ' ?"
+      }
+    ]
+  },
+  {
+    "epoch": 16,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale ' era il ' dell ' ' ' ' ' ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale ' era il ' dell ' ' ' ' ' ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale ' era il ' dell ' ' ' ' ' ?"
+      }
+    ]
+  },
+  {
+    "epoch": 17,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale \u00e8 stato il primo del ' ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale \u00e8 stato il primo del ' ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale \u00e8 stato il primo del ' ?"
+      }
+    ]
+  },
+  {
+    "epoch": 18,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese ha riferito il ' idea ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese ha riferito il ' idea ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese ha riferito il ' idea ?"
+      }
+    ]
+  },
+  {
+    "epoch": 19,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese \u00e8 stata <unk> ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese \u00e8 stata <unk> ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese \u00e8 stata <unk> ?"
+      }
+    ]
+  },
+  {
+    "epoch": 20,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese \u00e8 stato il ' per la prima volta il ' illuminismo ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese \u00e8 stato il ' per la prima volta il ' illuminismo ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese \u00e8 stato il ' per la prima volta il ' illuminismo ?"
+      }
+    ]
+  },
+  {
+    "epoch": 1,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese \u00e8 stato il primo <unk> ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese \u00e8 stato il primo <unk> ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese \u00e8 stato il primo <unk> ?"
+      }
+    ]
+  },
+  {
+    "epoch": 2,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese \u00e8 stato il primo <unk> ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese \u00e8 stato il primo <unk> ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese \u00e8 stato il primo <unk> ?"
+      }
+    ]
+  },
+  {
+    "epoch": 3,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese \u00e8 stata la prima volta il ' ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese \u00e8 stata la prima volta il ' ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese \u00e8 stata la prima volta il ' ?"
+      }
+    ]
+  },
+  {
+    "epoch": 4,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale anno \u00e8 stata la ' ' ' ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale anno \u00e8 stata la ' ' ' ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale anno \u00e8 stata la ' ' ' ?"
+      }
+    ]
+  },
+  {
+    "epoch": 5,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese \u00e8 stata la ' ' per la ' ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese \u00e8 stata la ' ' per la ' ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese \u00e8 stata la ' ' per la ' ?"
+      }
+    ]
+  },
+  {
+    "epoch": 6,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale ha ha riferito la ' del del del del <unk> ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale ha ha riferito la ' del del del del <unk> ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale ha ha riferito la ' del del del del <unk> ?"
+      }
+    ]
+  },
+  {
+    "epoch": 7,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese \u00e8 stata <unk> ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese \u00e8 stata <unk> ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese \u00e8 stata <unk> ?"
+      }
+    ]
+  },
+  {
+    "epoch": 8,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale anno il ' ' \u00e8 stata la pi\u00f9 famoso per il"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale anno il ' ' \u00e8 stata la pi\u00f9 famoso per il"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale anno il ' ' \u00e8 stata la pi\u00f9 famoso per il"
+      }
+    ]
+  },
+  {
+    "epoch": 9,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese \u00e8 stata <unk> ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese \u00e8 stata <unk> ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese \u00e8 stata <unk> ?"
+      }
+    ]
+  },
+  {
+    "epoch": 10,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese \u00e8 stata <unk> ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese \u00e8 stata <unk> ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese \u00e8 stata <unk> ?"
+      }
+    ]
+  },
+  {
+    "epoch": 1,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese \u00e8 stata <unk> per <unk> ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese \u00e8 stata <unk> per <unk> ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese \u00e8 stata <unk> per <unk> ?"
+      }
+    ]
+  },
+  {
+    "epoch": 2,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale anno \u00e8 stata <unk> per la prima volta il pi\u00f9 pi\u00f9 ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale anno \u00e8 stata <unk> per la prima volta il pi\u00f9 pi\u00f9 ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale anno \u00e8 stata <unk> per la prima volta il pi\u00f9 pi\u00f9 ?"
+      }
+    ]
+  },
+  {
+    "epoch": 3,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale anno ha riferito che il ' idea del ' ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale anno ha riferito che il ' idea del ' ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale anno ha riferito che il ' idea del ' ?"
+      }
+    ]
+  },
+  {
+    "epoch": 4,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale anno ha riferito il ' dell ' per la ' uso quotidiano ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale anno ha riferito il ' dell ' per la ' uso quotidiano ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale anno ha riferito il ' dell ' per la ' uso quotidiano ?"
+      }
+    ]
+  },
+  {
+    "epoch": 5,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale anno sono stati i <unk> ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale anno sono stati i <unk> ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale anno sono stati i <unk> ?"
+      }
+    ]
+  },
+  {
+    "epoch": 6,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale ' \u00e8 il principale per <unk> per la prima volta nel"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale ' \u00e8 il principale per <unk> per la prima volta nel"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale ' \u00e8 il principale per <unk> per la prima volta nel"
+      }
+    ]
+  },
+  {
+    "epoch": 7,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese ha riferito la ' del ' uso dell ' ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese ha riferito la ' del ' uso dell ' ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese ha riferito la ' del ' uso dell ' ?"
+      }
+    ]
+  },
+  {
+    "epoch": 8,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale anno \u00e8 stata <unk> <unk> <unk> ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale anno \u00e8 stata <unk> <unk> <unk> ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale anno \u00e8 stata <unk> <unk> <unk> ?"
+      }
+    ]
+  },
+  {
+    "epoch": 9,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese ha riferito il ' dell ' ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese ha riferito il ' dell ' ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese ha riferito il ' dell ' ?"
+      }
+    ]
+  },
+  {
+    "epoch": 10,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale ha ha riferito che il ' del `` <unk> del ' '' ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale ha ha riferito che il ' del `` <unk> del ' '' ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale ha ha riferito che il ' del `` <unk> del ' '' ?"
+      }
+    ]
+  },
+  {
+    "epoch": 11,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale ha ha riferito un ' del del <unk> alla fine del secondo pi\u00f9 ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale ha ha riferito un ' del del <unk> alla fine del secondo pi\u00f9 ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale ha ha riferito un ' del del <unk> alla fine del secondo pi\u00f9 ?"
+      }
+    ]
+  },
+  {
+    "epoch": 12,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quando \u00e8 stata la prima dell ' del `` <unk> del '' o pi\u00f9 <unk> ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quando \u00e8 stata la prima dell ' del `` <unk> del '' o pi\u00f9 <unk> ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quando \u00e8 stata la prima dell ' del `` <unk> del '' o pi\u00f9 <unk> ?"
+      }
+    ]
+  },
+  {
+    "epoch": 13,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quando \u00e8 ha riferito il ' idea del ' uso dell ' ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quando \u00e8 ha riferito il ' idea del ' uso dell ' ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quando \u00e8 ha riferito il ' idea del ' uso dell ' ?"
+      }
+    ]
+  },
+  {
+    "epoch": 14,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale ' era l ' unico del del <unk> , votare <unk> <unk> <unk> ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale ' era l ' unico del del <unk> , votare <unk> <unk> <unk> ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale ' era l ' unico del del <unk> , votare <unk> <unk> <unk> ?"
+      }
+    ]
+  },
+  {
+    "epoch": 15,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale ' ha introdotto il ' del del ' altra possibilit\u00e0 di una legislazione ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale ' ha introdotto il ' del del ' altra possibilit\u00e0 di una legislazione ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale ' ha introdotto il ' del del ' altra possibilit\u00e0 di una legislazione ?"
+      }
+    ]
+  },
+  {
+    "epoch": 16,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese ha ' ' del ' ha raggiunto il pi\u00f9 alto di una ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese ha ' ' del ' ha raggiunto il pi\u00f9 alto di una ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese ha ' ' del ' ha raggiunto il pi\u00f9 alto di una ?"
+      }
+    ]
+  },
+  {
+    "epoch": 17,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale anno il ' del <unk> \u00e8 stata <unk> ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale anno il ' del <unk> \u00e8 stata <unk> ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale anno il ' del <unk> \u00e8 stata <unk> ?"
+      }
+    ]
+  },
+  {
+    "epoch": 18,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese \u00e8 stata <unk> per la ' volta il pi\u00f9 alto ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese \u00e8 stata <unk> per la ' volta il pi\u00f9 alto ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale quale paese \u00e8 stata <unk> per la ' volta il pi\u00f9 alto ?"
+      }
+    ]
+  },
+  {
+    "epoch": 19,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale ha ha ' era un ' unico ad del"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale ha ha ' era un ' unico ad del"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quale ha ha ' era un ' unico ad del"
+      }
+    ]
+  },
+  {
+    "epoch": 20,
+    "examples": [
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quando \u00e8 stata la ' ' del `` raggiunto del ' 80 ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quando \u00e8 stata la ' ' del `` raggiunto del ' 80 ?"
+      },
+      {
+        "context": "la crisi petrolifera del 1973 inizi\u00f2 nell ' ottobre 1973 quando i membri dell ' organizzazione dei paesi esportatori di petrolio arabo ( <unk> , composta dai membri arabi dell ' opec pi\u00f9 egitto e siria ) proclamarono un embargo petrolifero. alla fine dell ' embargo , nel marzo 1974 , il prezzo del petrolio era salito da 3 dollari al barile a quasi 12 dollari a livello mondiale ; i prezzi americani erano notevolmente pi\u00f9 elevati. l ' embargo ha causato una crisi petrolifera , o `` shock '' , con molti effetti a breve e lungo termine sulla politica globale e sull ' economia globale. pi\u00f9 tardi fu chiamato il `` primo shock petrolifero '' , seguito dalla crisi petrolifera del 1979 , definita il `` secondo shock petrolifero '' .",
+        "reference": "quando \u00e8 iniziata la crisi petrolifera del 1973 ?",
+        "generated": "quando \u00e8 stata la ' ' del `` raggiunto del ' 80 ?"
+      }
+    ]
   }
 ]
