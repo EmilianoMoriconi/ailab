@@ -11,16 +11,16 @@ import os
 import warnings
 
 BATCH_SIZE = 32
-
+DATASET = 10000
 
 warnings.filterwarnings("ignore", category=FutureWarning)
 torch.cuda.empty_cache()
 
 # 1. Carica e preprocessa i dati
 train_samples = load_squad_dataset("data/SQuAD_it-train.json")
-train_samples = train_samples[:8000]
+train_samples = train_samples[:(DATASET*0.8)]
 test_samples = load_squad_dataset("data/SQuAD_it-test.json")
-test_samples = test_samples[:2000]
+test_samples = test_samples[:(DATASET*0.2)]
 
 # 🔄 Carica vocabolario se esiste, altrimenti crealo e salvalo
 if os.path.exists("saved/vocab.pkl"):
